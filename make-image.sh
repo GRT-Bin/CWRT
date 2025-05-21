@@ -141,7 +141,37 @@ build_firmware() {
     
     # Custom Files
     FILES="files"
-    
+    mkdir -p files/etc/hotplug.d/usb
+    cat <<'EOF' > files/etc/hotplug.d/usb/70-usb-net-autosetup
+
+for iface in $(ls /sys/class/net/ | grep -E '^(eth[0-9]+|usb[0-9]+)$'); do
+    uci show network | grep "ifname='${iface}'" >/dev/null && continue
+
+    IFDEV="/sys/class/net/${iface}/device"
+    PRODUCT=""
+    if [ -e "$IFDEV/uevent" ]; then
+        PRODUCT=$(grep "^PRODUCT=" "$IFDEV/uevent" | cut -d= -f2)
+    fi
+            
+    NAME="usbnet_${iface}"
+
+    case "$PRODUCT" in
+        12d1/1f01/*|12d1/14dc/*)
+            logger -t hilink "Huawei HiLink detected on $iface. Configuring as 'hilink' interface."
+            NAME="hilink"
+            ;;
+    esac
+
+    uci get network.${NAME} >/dev/null 2>&1 && continue
+            
+    uci set network.${NAME}="interface"
+    uci set network.${NAME}.proto="dhcp"
+    uci set network.${NAME}.ifname="$iface"
+    uci commit network
+    /etc/init.d/network reload
+done
+EOF
+    chmod +x files/etc/hotplug.d/usb/70-usb-net-autosetup
     log "INFO" "Building image..."
     make image PROFILE="$profile" PACKAGES="$PACKAGES $EXCLUDED" FILES="$FILES" DISABLED_SERVICES="$DISABLED_SERVICES" 2>&1
     
