@@ -64,7 +64,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 469754072,
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2025-05-14T13:02:34Z",
       "updated_at": "2025-05-14T13:02:51Z",
       "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-23.05.5-14052025/RTA-WRT-OpenWrt-23.05.5-Allwinner_OrangePi_1Plus-k6.1.31-AW64-DBAI-all-tunnel.img.gz"
@@ -99,7 +99,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 468506777,
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2025-05-14T12:46:09Z",
       "updated_at": "2025-05-14T12:46:21Z",
       "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-23.05.5-14052025/RTA-WRT-OpenWrt-23.05.5-Allwinner_OrangePi_3-k6.1.31-AW64-DBAI-all-tunnel.img.gz"
@@ -344,7 +344,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 467573933,
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2025-05-14T12:55:00Z",
       "updated_at": "2025-05-14T12:55:17Z",
       "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-23.05.5-14052025/RTA-WRT-OpenWrt-23.05.5-Allwinner_OrangePi_Zero3-k6.1.31-AW64-DBAI-all-tunnel.img.gz"
@@ -379,7 +379,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 468974789,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2025-05-14T13:01:38Z",
       "updated_at": "2025-05-14T13:01:52Z",
       "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-23.05.5-14052025/RTA-WRT-OpenWrt-23.05.5-Allwinner_OrangePi_ZeroPlus-k6.1.31-AW64-DBAI-all-tunnel.img.gz"
@@ -2584,7 +2584,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 256302707,
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2025-05-14T12:53:54Z",
       "updated_at": "2025-05-14T12:54:06Z",
       "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-23.05.5-14052025/RTA-WRT-OpenWrt-23.05.5-X86_64_Generic_Ext4_Combined--all-tunnel.img.gz"
@@ -2619,7 +2619,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 256475063,
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2025-05-14T12:53:54Z",
       "updated_at": "2025-05-14T12:54:06Z",
       "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-23.05.5-14052025/RTA-WRT-OpenWrt-23.05.5-X86_64_Generic_Ext4_Combined_EFI--all-tunnel.img.gz"

@@ -345,7 +345,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 480150444,
-        "download_count": 3,
+        "download_count": 4,
         "created_at": "2025-05-21T02:40:22Z",
         "updated_at": "2025-05-21T02:40:33Z",
         "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-24.10.1-21052025/RTA-WRT-OpenWrt-24.10.1-Allwinner_OrangePi_Zero3-k6.1.31-AW64-DBAI-all-tunnel.img.gz"
@@ -450,7 +450,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 403576513,
-        "download_count": 0,
+        "download_count": 2,
         "created_at": "2025-05-21T02:34:38Z",
         "updated_at": "2025-05-21T02:34:52Z",
         "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-24.10.1-21052025/RTA-WRT-OpenWrt-24.10.1-Amlogic_s905-Beelink_Mini-k5.15.183-all-tunnel.img.gz"
@@ -975,7 +975,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 408474507,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2025-05-21T02:35:18Z",
         "updated_at": "2025-05-21T02:35:30Z",
         "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-24.10.1-21052025/RTA-WRT-OpenWrt-24.10.1-Amlogic_s905x-B860H_v1-v2-NONMOD-k6.1.139-all-tunnel.img.gz"
@@ -1010,7 +1010,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 404474790,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2025-05-21T02:34:44Z",
         "updated_at": "2025-05-21T02:34:58Z",
         "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-24.10.1-21052025/RTA-WRT-OpenWrt-24.10.1-Amlogic_s905x-HG680P-NONMOD-k5.15.183-all-tunnel.img.gz"
@@ -1045,7 +1045,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 408447804,
-        "download_count": 0,
+        "download_count": 2,
         "created_at": "2025-05-21T02:34:44Z",
         "updated_at": "2025-05-21T02:35:01Z",
         "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-24.10.1-21052025/RTA-WRT-OpenWrt-24.10.1-Amlogic_s905x-HG680P-NONMOD-k6.1.139-all-tunnel.img.gz"
@@ -1080,7 +1080,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 406845578,
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2025-05-21T02:35:18Z",
         "updated_at": "2025-05-21T02:35:31Z",
         "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-24.10.1-21052025/RTA-WRT-OpenWrt-24.10.1-Amlogic_s905x-Mod_SDCard-B860H_v1-v2-k5.15.183-all-tunnel-all-tunnel.img.gz"
@@ -2375,7 +2375,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 256508117,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2025-05-21T02:37:07Z",
         "updated_at": "2025-05-21T02:37:17Z",
         "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-24.10.1-21052025/RTA-WRT-OpenWrt-24.10.1-Broadcom_RaspberryPi_4B-Ext4_Sysupgrade--all-tunnel.img.gz"
@@ -2620,7 +2620,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 267078103,
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2025-05-21T02:44:09Z",
         "updated_at": "2025-05-21T02:44:20Z",
         "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-24.10.1-21052025/RTA-WRT-OpenWrt-24.10.1-X86_64_Generic_Ext4_Combined_EFI--all-tunnel.img.gz"
@@ -2877,7 +2877,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 469754072,
-        "download_count": 12,
+        "download_count": 13,
         "created_at": "2025-05-14T13:02:34Z",
         "updated_at": "2025-05-14T13:02:51Z",
         "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-23.05.5-14052025/RTA-WRT-OpenWrt-23.05.5-Allwinner_OrangePi_1Plus-k6.1.31-AW64-DBAI-all-tunnel.img.gz"
@@ -2912,7 +2912,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 468506777,
-        "download_count": 7,
+        "download_count": 8,
         "created_at": "2025-05-14T12:46:09Z",
         "updated_at": "2025-05-14T12:46:21Z",
         "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-23.05.5-14052025/RTA-WRT-OpenWrt-23.05.5-Allwinner_OrangePi_3-k6.1.31-AW64-DBAI-all-tunnel.img.gz"
@@ -3157,7 +3157,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 467573933,
-        "download_count": 22,
+        "download_count": 23,
         "created_at": "2025-05-14T12:55:00Z",
         "updated_at": "2025-05-14T12:55:17Z",
         "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-23.05.5-14052025/RTA-WRT-OpenWrt-23.05.5-Allwinner_OrangePi_Zero3-k6.1.31-AW64-DBAI-all-tunnel.img.gz"
@@ -3192,7 +3192,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 468974789,
-        "download_count": 6,
+        "download_count": 7,
         "created_at": "2025-05-14T13:01:38Z",
         "updated_at": "2025-05-14T13:01:52Z",
         "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-23.05.5-14052025/RTA-WRT-OpenWrt-23.05.5-Allwinner_OrangePi_ZeroPlus-k6.1.31-AW64-DBAI-all-tunnel.img.gz"
@@ -5397,7 +5397,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 256302707,
-        "download_count": 12,
+        "download_count": 14,
         "created_at": "2025-05-14T12:53:54Z",
         "updated_at": "2025-05-14T12:54:06Z",
         "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-23.05.5-14052025/RTA-WRT-OpenWrt-23.05.5-X86_64_Generic_Ext4_Combined--all-tunnel.img.gz"
@@ -5432,7 +5432,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 256475063,
-        "download_count": 12,
+        "download_count": 14,
         "created_at": "2025-05-14T12:53:54Z",
         "updated_at": "2025-05-14T12:54:06Z",
         "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-23.05.5-14052025/RTA-WRT-OpenWrt-23.05.5-X86_64_Generic_Ext4_Combined_EFI--all-tunnel.img.gz"
@@ -18736,7 +18736,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 333169584,
-        "download_count": 72,
+        "download_count": 74,
         "created_at": "2025-03-10T16:20:34Z",
         "updated_at": "2025-03-10T16:20:42Z",
         "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-openwrt-24.10.0-10032025/RTA-WRT-OpenWrt-24.10.0-Rockchip_rk3318_H96-MAX-k6.1.130-all-tunnel.img.gz"
@@ -22103,7 +22103,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 383925730,
-        "download_count": 330,
+        "download_count": 332,
         "created_at": "2025-03-01T22:05:19Z",
         "updated_at": "2025-03-01T22:05:27Z",
         "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-ulo-immortalwrt-24.10.0-02032025/RTA-WRT-ImmortalWrt-24.10.0-Amlogic_s905X-B860H_v1-v2-k6.1.66-DBAI-all-tunnel.img.gz"
@@ -22138,7 +22138,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 383957767,
-        "download_count": 348,
+        "download_count": 351,
         "created_at": "2025-03-01T22:05:31Z",
         "updated_at": "2025-03-01T22:05:42Z",
         "browser_download_url": "https://github.com/rizkikotet-dev/RTA-WRT/releases/download/rtawrt-ulo-immortalwrt-24.10.0-02032025/RTA-WRT-ImmortalWrt-24.10.0-Amlogic_s905X-HG680P-k6.1.66-DBAI-all-tunnel.img.gz"
